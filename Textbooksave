@@ -1,0 +1,26 @@
+You are building a full-stack app called TextbookSave.
+
+Purpose:
+A UK textbook price comparison platform with search, price comparison, alerts, and student listings.
+
+Build using:
+- Next.js 14 (App Router)
+- TailwindCSS
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- NextAuth for authentication
+
+Create:
+1. Full folder structure
+2. Database schema (Prisma)
+3. API routes for books, prices, alerts, listings
+4. Front-end pages (Home, Search, Book Detail, Compare, Login, Signup, Dashboard)
+5. Components (Navbar, Footer, SearchBar, BookCard, PriceTable)
+6. Authentication (NextAuth)
+7. Admin panel (manage users + listings)
+8. Deployment config for Hostinger
+9. Environment variable template (.env.example)
+10. Seed script for sample data
+
+Generate production-ready code.
